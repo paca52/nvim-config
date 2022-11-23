@@ -1,0 +1,8 @@
+{
+    "jedi.jediSettings.autoImportModules": ["numpy"],
+    "prettier.tabWidth": 4,
+    "clangd.arguments": [],
+	"clangd.inlayHints": "false",
+	"java.home": "C:\\Program Files\\Java\\jdk-19",
+    "java.completion.enabled": true
+}
